@@ -42,11 +42,7 @@ struct Developer {
 
 </div>
 
-## Activity
-
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=9uiLe&bg_color=0D1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true)](https://github.com/9uiLe)
 
 <img src="https://komarev.com/ghpvc/?username=9uiLe&color=667eea&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
